@@ -6,7 +6,7 @@ namespace Laptop
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello its me");
+            Console.WriteLine("Hello world");
         }
     }
 }
